@@ -37,15 +37,11 @@
 
 # 📖 [Portfolio: setup and mobile first] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Portfolio: setup and mobile first]** is a simple html and css webpage designe...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -100,9 +96,6 @@ run npm install
 
 Clone this repository to your desired folder:
 
-
-
-
 ```sh
   cd my-folder
   git clone git@github.com:suthish777/porsonal-portfolio.git
@@ -113,8 +106,6 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-
-
 ```sh
   cd my-project
   npm install
@@ -122,8 +113,6 @@ Install this project with:
 --->
 
 ### Usage
-
-To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
