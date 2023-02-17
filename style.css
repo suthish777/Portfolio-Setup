@@ -96,10 +96,8 @@ i {
   background-color: #fff;
   border: 1px solid #dfe1e6;
   border-radius: 1em;
-  flex-direction: column;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: auto;
   margin: 8em 7% 0 7%;
   padding: 1em 1em 2em 1em;
 }
