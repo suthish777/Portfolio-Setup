@@ -77,6 +77,7 @@ header {
 
 .social-icons {
   width: 25%;
+  height: 25%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -97,9 +98,7 @@ i {
   border: 1px solid #dfe1e6;
   border-radius: 1em;
   display: grid;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
+  grid-template-columns: auto;
   margin: 8em 7% 0 7%;
   padding: 1em 1em 2em 1em;
 }
@@ -143,7 +142,7 @@ i {
 }
 
 .works-card-tags {
-  display: flex;
+  float: left;
   margin: 0.25em 0;
   list-style-type: none;
 }
@@ -151,7 +150,7 @@ i {
 .works-card-tag {
   color: #6070ff;
   background-color: #ebebff;
-  display: flex;
+  float: left;
   margin: 0 0.5rem 0 0;
   padding: 0.25em 0.75em;
   border-radius: 0.5rem;
