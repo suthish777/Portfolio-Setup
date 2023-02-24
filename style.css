@@ -250,19 +250,16 @@ button[disabled] {
 
 /* Contact Me starts here */
 .contact-me-form-container {
+  display: flex;
   justify-content: center;
   flex-direction: column;
-  width: auto;
-  position: absolute;
   margin: 6em 0 0 0;
-  left: 0%;
   padding: 3em;
-  padding: 5em 7% 0 7%;
-  border-radius: 6em 0 0 0;
+  border-radius: 5em 0 0 0;
   background-color: #6070ff;
   background-image: url(./assets/contact_form_shapes_mobile.png);
   background-repeat: no-repeat;
-  background-size: 0 0 0 2em;
+  background-position-x: right;
 }
 
 .contact-me-form-heading {
