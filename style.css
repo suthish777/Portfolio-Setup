@@ -255,12 +255,20 @@ button[disabled] {
   width: auto;
   position: absolute;
   margin: 6em 0 0 0;
+<<<<<<< HEAD
   left: 0%;
   padding: 3em;
+=======
+  padding: 5em 7% 0 7%;
+>>>>>>> 53c0c19d19f1c03acadb12fad0580bac0621958a
   border-radius: 6em 0 0 0;
   background-color: #6070ff;
   background-image: url(./assets/contact_form_shapes_mobile.png);
   background-repeat: no-repeat;
+<<<<<<< HEAD
+=======
+  background-size: 0 0 0 2em;
+>>>>>>> 53c0c19d19f1c03acadb12fad0580bac0621958a
 }
 
 .contact-me-form-heading {
