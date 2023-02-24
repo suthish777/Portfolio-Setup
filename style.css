@@ -252,14 +252,15 @@ button[disabled] {
 .contact-me-form-container {
   justify-content: center;
   flex-direction: column;
+  width: auto;
   position: absolute;
   margin: 6em 0 0 0;
+  left: 0%;
   padding: 3em;
-  border-radius: 8px;
+  border-radius: 6em 0 0 0;
   background-color: #6070ff;
   background-image: url(./assets/contact_form_shapes_mobile.png);
   background-repeat: no-repeat;
-  background-position-x: right;
 }
 
 .contact-me-form-heading {
@@ -311,6 +312,15 @@ textarea:focus {
 
 .contact-me-form-button {
   align-self: flex-start;
+}
+
+.home-bar {
+  display: flex;
+  border-radius: 10px;
+  left: 120px;
+  position: absolute;
+  height: 5px;
+  bottom: 8px;
 }
 
 /* Contact me ends here */
