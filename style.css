@@ -26,27 +26,19 @@ body {
   line-height: 52px;
 }
 
-.paragraph {
-  color: #344563;
-  font-style: normal;
-  font-weight: 100;
-  font-size: 18px;
-  line-height: 24px;
-}
-
 header {
   background-color: #fff;
   color: #6070ff;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1em 7%;
+  padding: 25px;
 }
 
 .logo > a {
   text-decoration: none;
   color: inherit;
-  left: 25px;
+  left: 76px;
 }
 
 .nav-menu-button {
@@ -84,6 +76,8 @@ header {
   background-size: 100%;
   background-position-x: center;
   background-repeat: no-repeat;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .headline {
