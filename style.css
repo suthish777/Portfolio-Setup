@@ -151,7 +151,6 @@ i {
   font-size: 40px;
   line-height: 52px;
   padding: 0.25em 0;
-  font-family: 'Poppins';
   font-style: normal;
 }
 
@@ -166,8 +165,7 @@ i {
 }
 
 .works-card-client-role {
-  color: #6B778C;
-  font-family: 'Poppins';
+  color: #6b778c;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -175,8 +173,7 @@ i {
 }
 
 .works-card-client-year {
-  color: #6B778C;
-  font-family: 'Poppins';
+  color: #6b778c;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -185,11 +182,10 @@ i {
 }
 
 .works-card-paragraph {
-  font-family: 'Poppins';
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  padding: 0.25em 0;
 }
 
 .works-card-client > i {
@@ -203,13 +199,9 @@ i {
   color: #7a869a;
 }
 
-.works-card-paragraph {
-  padding: 0.25em 0;
-}
-
 .works-card-tags {
   display: flex;
-  color: #6070FF;
+  color: #6070ff;
   margin: 0.25em 0;
   list-style-type: none;
   border-radius: 8px;
@@ -233,8 +225,8 @@ i {
 button {
   font-family: inherit;
   background: #fff;
-  color: #396DF2;
-  border: 1px solid #6070FF;
+  color: #396df2;
+  border: 1px solid #6070ff;
   border-radius: 8px;
   padding: 12px;
   font-size: 1.05em;
@@ -422,22 +414,17 @@ textarea:focus {
   }
 
   .headline-heading {
-    font-family: 'Poppins';
-    font-style: normal;
     font-weight: 700;
     font-size: 48px;
     line-height: 60px;
-    color: #091E42;
+    color: #091e42;
   }
 
   .headline-paragraph {
-    font-family: 'Poppins';
-    font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
     color: #344563;
-
   }
 
   /* Header Section Styling Ends Here */
