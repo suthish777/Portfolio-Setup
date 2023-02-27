@@ -77,6 +77,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://suthish777.github.io/Portfolio-Setup/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +100,7 @@ node.js needed
 run npm install
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: https://github.com/suthish777/Portfolio-Setup.git
 
 ```sh
   cd my-folder
@@ -157,7 +163,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project... please add star
+If you like this project you can follow me on <a href="https://github.com/suthish777">github</a> for more projects like this.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
