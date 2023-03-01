@@ -9,7 +9,7 @@ Color contrast > Issues found as follows:
     - works-card-tag necessary color adjustment has been to create better contrast
     - headline-sm-suport necessary color adjustment has been done to create better contrast
 Resize > no issues found
-Interaction >
+Interaction > no issue found
 Moving content > no issues found
 Multimedia > no issues found
 The basic structure of the page > no issues found
