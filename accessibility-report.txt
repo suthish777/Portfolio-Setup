@@ -4,6 +4,6 @@ Text headings > no issues found
 Color contrast > Issues found as follows:
   * As low-contrast text is difficult or impossible for many visitors to read.  
     All elements under the contrast color issues:
-    - works-card-tag 
-    - headline-sm-suport 
+    - works-card-tag necessary color adjustment has been to create better contrast
+    - headline-sm-suport necessary color adjustment has been done to create better contrast
 
