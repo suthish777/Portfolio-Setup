@@ -1,0 +1,9 @@
+Page titiles > No issues found
+Image text alternatives** > no issues found
+Text headings > no issues found
+Color contrast > Issues found as follows:
+  * As low-contrast text is difficult or impossible for many visitors to read.  
+    All elements under the contrast color issues:
+    - works-card-tag 
+    - headline-sm-suport 
+
