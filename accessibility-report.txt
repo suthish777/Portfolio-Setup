@@ -1,9 +1,15 @@
 Page titiles > No issues found
 Image text alternatives** > no issues found
-Text headings > no issues found
+Text headings > Issues found are as follows:
+    - All <h5> tags have been replaced with <p> tag as heading
+      elements were not in a sequentially-descending order
 Color contrast > Issues found as follows:
   * As low-contrast text is difficult or impossible for many visitors to read.  
     All elements under the contrast color issues:
     - works-card-tag necessary color adjustment has been to create better contrast
     - headline-sm-suport necessary color adjustment has been done to create better contrast
-
+Resize > no issues found
+Interaction >
+Moving content > no issues found
+Multimedia > no issues found
+The basic structure of the page > no issues found
