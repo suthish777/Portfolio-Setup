@@ -5,10 +5,12 @@ on: pull_request
 env:
   FORCE_COLOR: 1
 
+name: CI
+on: [push]
 jobs:
-  lighthouse:
+  lhci:
     name: Lighthouse
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Lighthouse
