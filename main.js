@@ -116,6 +116,22 @@ projects.forEach((project, index) => {
   body.appendChild(modal);
 });
 // Modal Popup Ends Here
+
+const openProjectDetails1 = document.getElementById('open-project-details-1');
+const openProjectDetails2 = document.getElementById('open-project-details-2');
+const openProjectDetails3 = document.getElementById('open-project-details-3');
+const openProjectDetails4 = document.getElementById('open-project-details-4');
+
+const detailCardClose1 = document.getElementById('detail-card-close-1');
+const detailCardClose2 = document.getElementById('detail-card-close-2');
+const detailCardClose3 = document.getElementById('detail-card-close-3');
+const detailCardClose4 = document.getElementById('detail-card-close-4');
+
+const detailCard1 = document.getElementById('detail-card-1');
+const detailCard2 = document.getElementById('detail-card-2');
+const detailCard3 = document.getElementById('detail-card-3');
+const detailCard4 = document.getElementById('detail-card-4');
+
 // Card 1 popup opening closing starts Here
 openProjectDetails1.addEventListener('click', () => {
   detailCard1.classList.toggle('detail-card--show');
